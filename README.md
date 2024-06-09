@@ -1,6 +1,6 @@
 # Assignment
 this is my simple assignment task work which is provided by Betterzila (Changumangu Solutions LLP) from internshala internship program.
-I create all the pages using frontend framework reactjs, and used nodejs, expressjs for backend work, for database mongodb is used.
+I create all the pages using frontend framework reactjs, and used nodejs, expressjs for backend work, for database mongodb is used.I hope it matches to your expectations.
 
 ## Images
 
